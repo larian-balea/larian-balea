@@ -61,8 +61,8 @@ This is a snapshot of the tools and technologies I'm proficient with.
     <td width="50%">
       <h3>6. "Know Your Rights" - AI Legal Advisor for Romanian Law (RAG)</h3>
       <p>Developed a Retrieval Augmented Generation (RAG) system to provide accessible legal advice in Romanian. Features include <strong>PDF parsing of legal documents, article-based text chunking, and vectorization with OpenAI Embeddings</strong> stored in ChromaDB. Leveraged a local Romanian LLM (RoLlama3-8b-instruct) with <strong>iteratively engineered prompts and few-shot examples</strong> to generate context-aware answers. Systematically evaluated using DeepEval for faithfulness, relevancy, and understanding.</p>
-  <p><b>Technologies:</b> Langchain, FastAPI, ChromaDB, RoLlama3 (Local LLM), OpenAI Embeddings, DeepEval, PyMuPDF, Pandas, NumPy</p>
-  <a href="[LINK_TO_YOUR_KNOW_YOUR_RIGHTS_GITHUB_REPO_OR_PROJECT_PAGE]"><b>View Project →</b></a>
+      <p><b>Technologies:</b> Langchain, FastAPI, ChromaDB, RoLlama3 (Local LLM), OpenAI Embeddings, DeepEval, PyMuPDF, Pandas, NumPy</p>
+      <a href="https://github.com/larian-balea/ML-projects/tree/main/Know-Your-Rights-main"><b>View Project →</b></a>
     </td>
   </tr>
 </table>

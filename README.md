@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=260§ion=header&text=Larian%20Balea&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&desc=Aspiring%20AI%20&%20Deep%20Learning%20Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=180§ion=header&text=Larian%20Balea&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51" />
 </p>
 
 ### Hi, I'm Larian Balea! 👋

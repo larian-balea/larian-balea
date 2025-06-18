@@ -4,7 +4,7 @@
 
 ### Hi, I'm Larian Balea! 👋
 
-I'm a second-year **Artificial Intelligence** student at Babeș-Bolyai University with a passion for building intelligent systems. I specialize in **Deep Learning** and **Computer Vision**, using frameworks like TensorFlow and Scikit-learn to turn complex data into actionable insights. Below are my featured projects that showcase my journey in machine learning.
+I'm a second-year **Artificial Intelligence** student at Babeș-Bolyai University with a passion for building intelligent systems. I am actively developing my skills in **Deep Learning** and **Computer Vision**, using frameworks like TensorFlow and Scikit-learn to turn complex data into actionable insights. Below are my featured projects that showcase my journey in machine learning.
 
 ---
 

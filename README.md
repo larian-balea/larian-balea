@@ -1,10 +1,5 @@
-<!-- 
-This is a professional, modern README designed to catch a recruiter's eye.
-The header banner is a great touch for visual appeal. You can create one easily on Canva.com
-or use a dynamic one from services like https://github.com/kyechan99/capsule-render
--->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=180§ion=header&text=Larian%20Balea&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&desc=Aspiring%20AI%20&%20Deep%20Learning%20Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=260§ion=header&text=Larian%20Balea&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&desc=Aspiring%20AI%20&%20Deep%20Learning%20Engineer" />
 </p>
 
 ### Hi, I'm Larian Balea! 👋
@@ -62,7 +57,6 @@ This is a snapshot of the tools and technologies I'm proficient with.
       <p>Designed and compared a custom CNN against an AlexNet-inspired model on CIFAR-10. Identified model weaknesses and improved accuracy by <strong>implementing a targeted data augmentation strategy</strong>.</p>
       <p><b>Technologies:</b> TensorFlow, Keras, NumPy, Scikit-learn</p>
       <a href="https://github.com/larian-balea/ML-projects/tree/main/5.%20Image-Classification-Custom-CNN-vs-AlexNet"><b>View Project →</b></a>
-
     </td>
     <td width="50%">
       <!-- You can add a 6th project here in the future! -->

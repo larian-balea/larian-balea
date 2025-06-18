@@ -33,7 +33,7 @@ This is a snapshot of the tools and technologies I'm proficient with.
       <h3>1. CNN Architectures for Image Classification</h3>
       <p>Designed and compared a custom CNN against an AlexNet-inspired model on CIFAR-10. Identified model weaknesses and improved accuracy by <strong>implementing a targeted data augmentation strategy</strong>.</p>
       <p><b>Technologies:</b> TensorFlow, Keras, NumPy, Scikit-learn</p>
-      <a href="https://github.com/[your-github-username]/CNN-Architectures-for-Image-Classification"><b>View Project →</b></a>
+      <a href="https://github.com/larian-balea/ML-projects/1.%20Movie-Analysis-and-Recommender"><b>View Project →</b></a>
     </td>
     <td width="50%">
       <h3>2. Digit Recognition: TensorFlow vs. Scikit-Learn</h3>

@@ -30,16 +30,16 @@ This is a snapshot of the tools and technologies I'm proficient with.
 <table>
   <tr>
     <td width="50%">
-      <h3>1. CNN Architectures for Image Classification</h3>
-      <p>Designed and compared a custom CNN against an AlexNet-inspired model on CIFAR-10. Identified model weaknesses and improved accuracy by <strong>implementing a targeted data augmentation strategy</strong>.</p>
-      <p><b>Technologies:</b> TensorFlow, Keras, NumPy, Scikit-learn</p>
+      <h3>1. IMDB Data Analysis & Recommender System</h3>
+      <p>Performed a full data science workflow on the IMDB Top 1000 dataset, from cleaning and preprocessing to <strong>in-depth EDA and visualization</strong>. Capped with a content-based movie recommender built from scratch.</p>
+      <p><b>Technologies:</b> Pandas, NumPy, Matplotlib, Seaborn</p>
       <a href="https://github.com/larian-balea/ML-projects/tree/main/1.%20Movie-Analysis-and-Recommender"><b>View Project →</b></a>
     </td>
     <td width="50%">
-      <h3>2. Digit Recognition: TensorFlow vs. Scikit-Learn</h3>
-      <p>Built and evaluated MLPs to recognize handwritten digits, providing a <strong>critical comparison of a deep learning framework (TensorFlow) and a high-level library (Scikit-learn)</strong> on performance, flexibility, and ease of use.</p>
-      <p><b>Technologies:</b> TensorFlow, Scikit-learn, Plotly</p>
-      <a href="https://github.com/[your-github-username]/Digit-Recognition-TF-vs-ScikitLearn"><b>View Project →</b></a>
+      <h3>2. Predicting Movie Box Office Revenue</h3>
+      <p>Developed and compared regression models (Linear, Decision Tree, Random Forest) to predict movie revenue. <strong>Engineered novel features like 'Star Power' and 'Genre Value'</strong> that significantly boosted model performance.</p>
+      <p><b>Technologies:</b> Scikit-learn, Pandas, NumPy</p>
+      <a href="https://github.com/larian-balea/ML-projects/tree/main/2.%20Movie-Revenue-Prediction-Scikit-Learn"><b>View Project →</b></a>
     </td>
   </tr>
   <tr>
@@ -47,21 +47,22 @@ This is a snapshot of the tools and technologies I'm proficient with.
       <h3>3. Movie Analytics: Clustering & Classification</h3>
       <p>Applied <strong>K-Means clustering</strong> to segment movies into distinct archetypes and built a <strong>Logistic Regression model</strong> to predict high-rated films, demonstrating a full unsupervised-to-supervised workflow.</p>
       <p><b>Technologies:</b> Scikit-learn, Pandas, Matplotlib, Seaborn</p>
-      <a href="https://github.com/[your-github-username]/Movie-Analytics-Clustering-Classification"><b>View Project →</b></a>
+      <a href="https://github.com/larian-balea/ML-projects/tree/main/3.%20Movie-Clustering-and-Classification-Scikit-Learn"><b>View Project →</b></a>
     </td>
     <td width="50%">
-      <h3>4. Predicting Movie Box Office Revenue</h3>
-      <p>Developed and compared regression models (Linear, Decision Tree, Random Forest) to predict movie revenue. <strong>Engineered novel features like 'Star Power' and 'Genre Value'</strong> that significantly boosted model performance.</p>
-      <p><b>Technologies:</b> Scikit-learn, Pandas, NumPy</p>
-      <a href="https://github.com/[your-github-username]/IMDB-Gross-Revenue-Prediction"><b>View Project →</b></a>
+      <h3>4. Digit Recognition: TensorFlow vs. Scikit-Learn</h3>
+      <p>Built and evaluated MLPs to recognize handwritten digits, providing a <strong>critical comparison of a deep learning framework (TensorFlow) and a high-level library (Scikit-learn)</strong> on performance, flexibility, and ease of use.</p>
+      <p><b>Technologies:</b> TensorFlow, Scikit-learn, Plotly</p>
+      <a href="https://github.com/larian-balea/ML-projects/tree/main/4.%20Handwritten-Digit-Recognition-Scikit-Learn-vs-TensorFlow"><b>View Project →</b></a>
     </td>
   </tr>
     <tr>
     <td width="50%">
-      <h3>5. IMDB Data Analysis & Recommender System</h3>
-      <p>Performed a full data science workflow on the IMDB Top 1000 dataset, from cleaning and preprocessing to <strong>in-depth EDA and visualization</strong>. Capped with a content-based movie recommender built from scratch.</p>
-      <p><b>Technologies:</b> Pandas, NumPy, Matplotlib, Seaborn</p>
-      <a href="https://github.com/[your-github-username]/IMDB-Movie-Analysis-and-Recommender"><b>View Project →</b></a>
+      <h3>5. CNN Architectures for Image Classification</h3>
+      <p>Designed and compared a custom CNN against an AlexNet-inspired model on CIFAR-10. Identified model weaknesses and improved accuracy by <strong>implementing a targeted data augmentation strategy</strong>.</p>
+      <p><b>Technologies:</b> TensorFlow, Keras, NumPy, Scikit-learn</p>
+      <a href="https://github.com/larian-balea/ML-projects/tree/main/5.%20Image-Classification-Custom-CNN-vs-AlexNet"><b>View Project →</b></a>
+
     </td>
     <td width="50%">
       <!-- You can add a 6th project here in the future! -->

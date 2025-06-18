@@ -88,8 +88,3 @@ This is a snapshot of the tools and technologies I'm proficient with.
   <a href="https://www.linkedin.com/in/larian-balea/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:larian.balea@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=larian-balea&show_icons=true&theme=radical" alt="Larian Balea's GitHub Stats" />
-</p>

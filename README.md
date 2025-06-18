@@ -73,11 +73,11 @@ This is a snapshot of the tools and technologies I'm proficient with.
 <summary><b>📚 Foundational Software & Data Engineering Projects</b></summary>
 <br>
 
-- **[Healthcare Management System (Java)](https://github.com/[your-github-username]/healthcare-system)**: A JavaFX GUI application with database integration (Maven-based) for managing patients, doctors, and appointments.
-- **[Fair Management System (SQL)](https://github.com/[your-github-username]/fair-management)**: A comprehensive SQL project modeling a fair with zones, animals, shops, and employees, including tables, procedures, triggers, and views.
-- **[Image Processing (C++)](https://github.com/[your-github-username]/image-processing)**: A console application for basic image manipulation, including brightness/contrast adjustments, gamma correction, and convolutions.
-- **[Word Ladder (C++)](https://github.com/[your-github-username]/word-ladder)**: A game that transforms one word into another by changing one letter at a time, with automatic and interactive play modes.
-- **[Clothes Manager (Lua)](https://github.com/[your-github-username]/clothes-manager)**: A stylish app to mix and match clothing items and build outfits, featuring a beautiful design.
+- **[Healthcare Management System (Java)](https://github.com/larian-balea/healthcare-system)**: A JavaFX GUI application with database integration (Maven-based) for managing patients, doctors, and appointments.
+- **[Fair Management System (SQL)](https://github.com/larian-balea/fair-management)**: A comprehensive SQL project modeling a fair with zones, animals, shops, and employees, including tables, procedures, triggers, and views.
+- **[Image Processing (C++)](https://github.com/larian-balea/image-processing)**: A console application for basic image manipulation, including brightness/contrast adjustments, gamma correction, and convolutions.
+- **[Word Ladder (C++)](https://github.com/larian-balea/word-ladder)**: A game that transforms one word into another by changing one letter at a time, with automatic and interactive play modes.
+- **[Clothes Manager (Lua)](https://github.com/larian-balea/clothes-manager)**: A stylish app to mix and match clothing items and build outfits, featuring a beautiful design.
 </details>
 
 ---
@@ -89,7 +89,7 @@ This is a snapshot of the tools and technologies I'm proficient with.
   <a href="mailto:larian.balea@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<!-- Optional: Add GitHub stats for a nice final touch -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=radical" alt="Larian Balea's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=larian-balea&show_icons=true&theme=radical" alt="Larian Balea's GitHub Stats" />
 </p>
